@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Person</string>
+    <string name="btn_search">Search</string>
+    <string name="nama">Nama</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="username">Username</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="btn_fav">Favorite Button</string>
+    <string name="scrollview">Scroll View</string>
+</resources>
